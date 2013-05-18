@@ -11,4 +11,4 @@ Usage:
     Add frameworks: QuartzCore.framework, CoreGraphics.framework
 
 
-![](https://github.com/winlin/iOS-Toast/blob/master/IMG_0166.PNG)
+![](IMG_0166.PNG)
